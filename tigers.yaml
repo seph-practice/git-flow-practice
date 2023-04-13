@@ -1,0 +1,16 @@
+team: Tigers
+
+manager: Deborah
+
+coach: Trump
+
+members:
+- Linda
+- William
+- David
+- George
+
+fetch: this
+new-branch
+
+stash
